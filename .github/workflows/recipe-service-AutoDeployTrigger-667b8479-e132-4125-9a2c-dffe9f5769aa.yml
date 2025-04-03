@@ -39,9 +39,9 @@ jobs:
           registryUrl: sandra.azurecr.io
           registryUsername: ${{ secrets.RECIPESERVICE_REGISTRY_USERNAME }}
           registryPassword: ${{ secrets.RECIPESERVICE_REGISTRY_PASSWORD }}
-          containerAppName: recipe-service
+          containerAppName: cookbook
           resourceGroup: aiberlin
-          imageToBuild: sandra.azurecr.io/recipe-service:${{ github.sha }}
+          imageToBuild: sandra.azurecr.io/cookbook:${{ github.sha }}
           _buildArgumentsKey_: |
             _buildArgumentsValues_
 

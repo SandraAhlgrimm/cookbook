@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Playwright ###
+playwright-tests/node_modules/
+playwright-tests/playwright-report/
+playwright-tests/test-results/
+playwright-tests/package-lock.json
+playwright-tests/.cache/

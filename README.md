@@ -4,6 +4,8 @@ Cookbook is a Java-based application designed to manage and organize recipes. It
 
 This demo is created for the 42Berlin, Devoxx France and Belgium workshops.
 
+https://docs.google.com/presentation/d/1w8x6u7RP92TQj23jJhxm7YVoQcDp8SnMPNupKrzLAC4/edit?usp=sharing
+
 ## Features
 
 - Add, edit, and delete recipes.
